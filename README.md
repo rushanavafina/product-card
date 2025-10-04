@@ -1,1 +1,1 @@
-# product-card
+Выполнила домашнее задание — создала pull request
